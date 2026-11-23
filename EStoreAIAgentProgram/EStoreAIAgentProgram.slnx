@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/EStoreAgents/" />
+  <Folder Name="/EStoreAgents/ProductAgents/">
+    <Project Path="EStoreAgents/ProductAgents/ProductAgent.API/ProductAgent.API.csproj" />
+    <Project Path="EStoreAgents/ProductAgents/ProductAgent.Application/ProductAgent.Application.csproj" />
+    <Project Path="EStoreAgents/ProductAgents/ProductAgent.Domain/ProductAgent.Domain.csproj" />
+    <Project Path="EStoreAgents/ProductAgents/ProductAgent.Infrastructure/ProductAgent.Infrastructure.csproj" />
+  </Folder>
+</Solution>

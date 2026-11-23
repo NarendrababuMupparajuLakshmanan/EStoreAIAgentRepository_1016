@@ -1,0 +1,12 @@
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Infrastructure\bin\Debug\net10.0\ProductAgent.Infrastructure.deps.json
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Infrastructure\bin\Debug\net10.0\ProductAgent.Infrastructure.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Infrastructure\bin\Debug\net10.0\ProductAgent.Infrastructure.pdb
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Infrastructure\obj\Debug\net10.0\ProductAgent.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Infrastructure\obj\Debug\net10.0\ProductAgent.Infrastructure.AssemblyInfoInputs.cache
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Infrastructure\obj\Debug\net10.0\ProductAgent.Infrastructure.AssemblyInfo.cs
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Infrastructure\obj\Debug\net10.0\ProductAgent.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Infrastructure\obj\Debug\net10.0\ProductAgent.Infrastructure.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Infrastructure\obj\Debug\net10.0\refint\ProductAgent.Infrastructure.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Infrastructure\obj\Debug\net10.0\ProductAgent.Infrastructure.pdb
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Infrastructure\obj\Debug\net10.0\ref\ProductAgent.Infrastructure.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Infrastructure\obj\Debug\net10.0\ProductA.2CDB8CA4.Up2Date

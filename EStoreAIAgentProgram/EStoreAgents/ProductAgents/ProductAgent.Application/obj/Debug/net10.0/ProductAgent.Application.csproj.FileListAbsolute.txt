@@ -1,0 +1,12 @@
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Application\bin\Debug\net10.0\ProductAgent.Application.deps.json
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Application\bin\Debug\net10.0\ProductAgent.Application.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Application\bin\Debug\net10.0\ProductAgent.Application.pdb
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Application\obj\Debug\net10.0\ProductAgent.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Application\obj\Debug\net10.0\ProductAgent.Application.AssemblyInfoInputs.cache
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Application\obj\Debug\net10.0\ProductAgent.Application.AssemblyInfo.cs
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Application\obj\Debug\net10.0\ProductAgent.Application.csproj.CoreCompileInputs.cache
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Application\obj\Debug\net10.0\ProductAgent.Application.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Application\obj\Debug\net10.0\refint\ProductAgent.Application.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Application\obj\Debug\net10.0\ProductAgent.Application.pdb
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Application\obj\Debug\net10.0\ref\ProductAgent.Application.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Application\obj\Debug\net10.0\ProductA.DEEFF1A5.Up2Date
