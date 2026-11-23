@@ -5,6 +5,7 @@ D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAge
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\obj\Debug\net10.0\ProductAgent.Domain.AssemblyInfoInputs.cache
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\obj\Debug\net10.0\ProductAgent.Domain.AssemblyInfo.cs
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\obj\Debug\net10.0\ProductAgent.Domain.csproj.CoreCompileInputs.cache
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\obj\Debug\net10.0\ProductAgent.Domain.sourcelink.json
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\obj\Debug\net10.0\ProductAgent.Domain.dll
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\obj\Debug\net10.0\refint\ProductAgent.Domain.dll
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\obj\Debug\net10.0\ProductAgent.Domain.pdb
