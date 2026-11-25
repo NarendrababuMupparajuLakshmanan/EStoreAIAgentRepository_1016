@@ -9,6 +9,8 @@ D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAge
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\Azure.Core.dll
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\Azure.Identity.dll
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\Humanizer.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\MediatR.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\MediatR.Contracts.dll
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\Microsoft.Build.Framework.dll
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
@@ -140,10 +142,12 @@ D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAge
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\ProductAgent.Application.dll
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\ProductAgent.Domain.dll
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\ProductAgent.Infrastructure.dll
-D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\ProductAgent.Infrastructure.pdb
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\ProductAgent.Application.pdb
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\ProductAgent.Domain.pdb
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\ProductAgent.Infrastructure.pdb
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\obj\Debug\net10.0\ProductAgent.API.csproj.AssemblyReference.cache
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\obj\Debug\net10.0\rpswa.dswa.cache.json
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\obj\Debug\net10.0\ProductAgent.API.GeneratedMSBuildEditorConfig.editorconfig
@@ -168,3 +172,8 @@ D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAge
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\obj\Debug\net10.0\ProductAgent.API.pdb
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\obj\Debug\net10.0\ProductAgent.API.genruntimeconfig.cache
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\obj\Debug\net10.0\ref\ProductAgent.API.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.API\obj\Debug\net10.0\ProductAgent.API.MvcApplicationPartsAssemblyInfo.cs

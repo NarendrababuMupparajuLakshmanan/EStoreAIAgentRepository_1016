@@ -1,6 +1,7 @@
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\bin\Debug\net10.0\ProductAgent.Domain.deps.json
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\bin\Debug\net10.0\ProductAgent.Domain.dll
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\bin\Debug\net10.0\ProductAgent.Domain.pdb
+D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\obj\Debug\net10.0\ProductAgent.Domain.csproj.AssemblyReference.cache
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\obj\Debug\net10.0\ProductAgent.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\obj\Debug\net10.0\ProductAgent.Domain.AssemblyInfoInputs.cache
 D:\GIT_EStoreAIAgentRepository_1016\EStoreAIAgentProgram\EStoreAgents\ProductAgents\ProductAgent.Domain\obj\Debug\net10.0\ProductAgent.Domain.AssemblyInfo.cs

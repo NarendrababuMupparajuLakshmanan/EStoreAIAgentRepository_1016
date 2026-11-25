@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ProductAgent.API.Controllers.ProductController",
+    "Method": "ListProduct",
+    "RelativePath": "api/Product/ListProduct",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

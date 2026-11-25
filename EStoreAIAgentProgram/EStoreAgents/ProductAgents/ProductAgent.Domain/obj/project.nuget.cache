@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UBwmFmNDz5s=",
+  "dgSpecHash": "PDkq4mAj+rM=",
   "success": true,
   "projectFilePath": "D:\\GIT_EStoreAIAgentRepository_1016\\EStoreAIAgentProgram\\EStoreAgents\\ProductAgents\\ProductAgent.Domain\\ProductAgent.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.15\\microsoft.extensions.dependencyinjection.abstractions.10.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -7,7 +7,6 @@ namespace ProductAgent.Infrastructure
         : DbContext
     {
 
-
         public ProductRepository(DbContextOptions<ProductRepository> options)
             : base(options)
         {

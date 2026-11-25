@@ -7,14 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="14.3.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.15">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.15" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="10.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="10.3.1" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ProductAgent.Application\ProductAgent.Application.csproj" />
+    <ProjectReference Include="..\ProductAgent.Domain\ProductAgent.Domain.csproj" />
     <ProjectReference Include="..\ProductAgent.Infrastructure\ProductAgent.Infrastructure.csproj" />
   </ItemGroup>
 
