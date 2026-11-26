@@ -37,7 +37,11 @@ namespace ProductAgent.Application.Mappers
             {
                 productDTO = new ProductDTO(productModel.Id,
                     productModel.ProductName,
+                    productModel.ProductDescription,
+                    productModel.BrandName,
                     productModel.Category,
+                    productModel.ImageName,
+                    productModel.ImageURL,
                     productModel.Price,
                     productModel.Quantity);
             }

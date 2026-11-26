@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using ProductAgent.Application;
+using ProductAgent.Domain.Repositories;
 using ProductAgent.Infrastructure;
+using ProductAgent.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,11 +13,12 @@ builder.Services.AddControllers();
 string _connectionstring = builder.Configuration.GetConnectionString("EStoreDBConnection");
 
 //IOC ---> Inversion of Control
-builder.Services.AddDbContext<ProductRepository>(options =>
+builder.Services.AddDbContext<EStoreDBContext>(options =>
 {
     options.UseSqlServer(_connectionstring);
 });
 
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
 //Add Swashe Buckle to Services
 builder.Services.AddEndpointsApiExplorer();
